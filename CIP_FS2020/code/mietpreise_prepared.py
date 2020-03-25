@@ -31,4 +31,3 @@ df_bfs2 = df_bfs2.rename(columns={"variable":"Zimmer","value":"Durchschnittsprei
 
 """Daten exportieren (für Tableau Prep)"""
 df_bfs2.to_csv('../output/df_bfs_mietpreise_m2.csv')
-
