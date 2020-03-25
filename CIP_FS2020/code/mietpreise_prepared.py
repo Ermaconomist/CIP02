@@ -17,7 +17,7 @@ df_bfs2.head()
 
 """Spalten umbenennen"""
 column_names = list(df_bfs2.columns)
-column_names_replacements = ["Ort","1","2","3","4","5","6"]
+column_names_replacements = ["Kanton","1","2","3","4","5","6"]
 rename_dict = dict(zip(column_names,column_names_replacements))
 df_bfs2 = df_bfs2.rename(columns=rename_dict)
 

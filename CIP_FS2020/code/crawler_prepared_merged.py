@@ -1,6 +1,7 @@
 """Import Libraries"""
 import pandas as pd
 import xlrd
+import xlwt
 
 """Import Data"""
 
@@ -50,7 +51,7 @@ df_crawler = df_crawler.dropna()
 
 """Exportieren Crawler bereinigt"""
 df_crawler.to_csv('../output/df_crawler.csv')
-
+df_crawler.save('../output/df_crawler.xls')
 
 # """
 # Data Preparation - Bundesamt für Statistik (Data Source 3 PLZ)

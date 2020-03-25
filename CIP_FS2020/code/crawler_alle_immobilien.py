@@ -87,7 +87,7 @@ df_alle_immo.to_csv('../data/crawler.csv', encoding = 'utf-8')
 # write to mssql-server
 engine = sqlalchemy.create_engine('mssql://ids-db/CIP_FS2020?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server')
 
-df_alle_immo.to_sql("test_alle_immo", con = engine, if_exists = "replace")
+df_alle_immo.to_sql("crawler", con = engine, if_exists = "replace")
 
 #flatten = [y for x in list_adress for y in x]
 import os
