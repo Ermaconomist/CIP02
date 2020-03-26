@@ -3,15 +3,50 @@ import pandas as pd
 import xlrd
 import xlwt
 
+"""Set Options"""
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
 """Import Data"""
 
 """Dateien in Pandas-Dataframes einlesen"""
 # df_bfs3 = pd.read_excel('../data/df_bfs3.xlsx', sheet_name='PLZ4', encoding = 'ISO-8859–1')
 df_crawler = pd.read_csv('../data/crawler.csv', sep = ",", encoding = 'utf-8')
-
+df_crawler = pd.read_csv('/Users/nico/Google Drive/Studium/HSLU/02_HS20/03_Data Collection, Integration and Prepocessing /Zusammenfassung alle Datein/df_alle_immo.csv', sep = ',')
 """
 Data Preparation - Crawler Daten (Alle Immobilien)
 """
+
+
+""" Typen Vergabe herauslesen und nach Gewerbe- und Wohnobjekt sortieren """
+
+df_crawler.groupby('type').count() #Kontrollschritt
+
+liste_typen = ['Attikawohnung',
+               'Bauernhaus',
+               'Dachwohnung',
+               'Doppeleinfamilienhaus',
+               'Einfamilienhaus',
+               'Einliegerwohnung',
+               'Einzelzimmer',
+               'Loft',
+               'Maisonette / Duplex',
+               'Mansarde',
+               'Möbliertes Wohnobjekt',
+               'Möbliertes Wohnobjekt',
+               'Reihenfamilienhaus',
+               'Rustico',
+               'Studio',
+               'Terrassenhaus',
+               'Terrassenwohnung',
+               'VillaWohnung',
+               'Wohnung']
+
+df_crawler.loc[df_crawler['type'].isin(liste_typen), 'OBJEKT_TYP'] = 'Wohnung'
+df_crawler.loc[-df_crawler['type'].isin(liste_typen), 'OBJEKT_TYP'] = 'Diverse'
+
+df_wohnung = df_crawler.query('OBJEKT_TYP == "Wohnung"')
+df_wohnung.groupby('type').count() #Kontrollschritt
 
 """Unerwünschte Zeichen und Wörter entfernen"""
 df_crawler = df_crawler.replace("\n","", regex = True)
