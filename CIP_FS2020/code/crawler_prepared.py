@@ -12,11 +12,9 @@ pd.set_option('display.max_rows', None)
 """Dateien in Pandas-Dataframes einlesen"""
 # df_bfs3 = pd.read_excel('../data/df_bfs3.xlsx', sheet_name='PLZ4', encoding = 'ISO-8859–1')
 df_crawler = pd.read_csv('../data/crawler.csv', sep = ",", encoding = 'utf-8')
-df_crawler = pd.read_csv('/Users/nico/Google Drive/Studium/HSLU/02_HS20/03_Data Collection, Integration and Prepocessing /Zusammenfassung alle Datein/df_alle_immo.csv', sep = ',')
 """
 Data Preparation - Crawler Daten (Alle Immobilien)
 """
-
 
 """ Typen Vergabe herauslesen und nach Gewerbe- und Wohnobjekt sortieren """
 
