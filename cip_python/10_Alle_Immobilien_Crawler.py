@@ -82,7 +82,7 @@ df_alle_immo = pd.DataFrame(
 print(df_alle_immo)
 
 # output als csv
-df_alle_immo.to_csv('../data/crawler.csv', encoding = 'utf-8')
+df_alle_immo.to_csv('./01_input/crawler.csv', encoding = 'utf-8')
 
 # write to mssql-server
 engine = sqlalchemy.create_engine('mssql://ids-db/CIP_FS2020?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server')
