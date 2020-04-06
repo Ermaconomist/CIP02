@@ -87,7 +87,7 @@ df_crawler = df_crawler[['ID', 'date', 'Strasse', 'Hausnummer', 'PLZ', 'Ort', 't
 df_crawler_nadropper = df_crawler.dropna()
 
 """Exportieren Crawler bereinigt"""
-df_crawler.to_csv(Path().joinpath('02_output', 'df_crawler.csv'), sep = ';', encoding = 'utf-8')
+df_crawler.to_csv(Path().joinpath('02_output', 'df_crawler_test.csv'), sep = ';', encoding = 'utf-8')
 
 # """
 # Data Preparation - Bundesamt für Statistik (Data Source 3 PLZ)
