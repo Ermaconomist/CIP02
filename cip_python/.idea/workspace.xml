@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a25930e-c8b3-47b8-a8d8-586af72d8a12" name="Default Changelist" comment="" />
+    <list default="true" id="7cc9c3ed-a979-4703-85be-3f98240d4fb7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1Zfdt0fQvd9OYhzcP57zmHaHvvF" />
+  <component name="ProjectId" id="1aCU8KBCLPRJR2OFOwZQuJr9JOd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,15 +16,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\usera\Desktop\cip_python" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.07_load (1)">
-    <configuration name="07_load (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_load">
+    <configuration name="07_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cip_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,27 +32,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_load/07_load.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="07_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cip_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Load" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Load/07_load.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="projekbeschrieb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12_BfS_Mietdaten_Bereinigung" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cip_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projekbeschrieb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_BfS_Mietdaten_Bereinigung.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_load (1)" />
         <item itemvalue="Python.07_load" />
+        <item itemvalue="Python.12_BfS_Mietdaten_Bereinigung" />
         <item itemvalue="Python.11_Alle_Immobilien_Bereinigung" />
         <item itemvalue="Python.10_Alle_Immobilien_Crawler" />
-        <item itemvalue="Python.projekbeschrieb" />
       </list>
     </recent_temporary>
   </component>
@@ -150,34 +116,25 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2010" height="325" key="GridCell.Tab.0.bottom" timestamp="1586193670976">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1586281970893">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1402" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586190287251" />
-    <state width="2010" height="325" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586193670976" />
-    <state width="2010" height="325" key="GridCell.Tab.0.center" timestamp="1586193670976">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586281970893" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1586281970892">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1402" height="186" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586190287251" />
-    <state width="2010" height="325" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586193670976" />
-    <state width="2010" height="325" key="GridCell.Tab.0.left" timestamp="1586193670976">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586281970892" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1586281970892">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1402" height="186" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586190287250" />
-    <state width="2010" height="325" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586193670976" />
-    <state width="2010" height="325" key="GridCell.Tab.0.right" timestamp="1586193670976">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586281970892" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1586281970892">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1402" height="186" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586190287251" />
-    <state width="2010" height="325" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586193670976" />
-    <state x="629" y="100" key="SettingsEditor" timestamp="1586193111328">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586281970892" />
+    <state x="461" y="222" key="SettingsEditor" timestamp="1586239909354">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="442" y="78" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586190283751" />
-    <state x="629" y="100" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586193111328" />
-    <state width="720" height="430" key="XDebugger.FullValuePopup" timestamp="1585234872224">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="720" height="430" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1585234872224" />
+    <state x="461" y="222" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1586239909354" />
   </component>
 </project>

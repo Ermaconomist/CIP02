@@ -1,5 +1,129 @@
 ,date,type,adress,price,surface,room
-0,06.04.2020,Büro,"
+0,07.04.2020,Wohnung,"
+
+Adresse
+Zugerstrasse 116
+6330 Cham
+
+","
+
+Preis
+
+CHF
+2'180 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+2.5
+"
+1,07.04.2020,Möbliertes Wohnobjekt,"
+
+Adresse
+6330 Cham
+
+","
+
+Preis
+
+CHF
+2'688 pro Monat
+
+
+","
+Fläche
+38 m2
+","
+Zimmer
+2
+"
+2,07.04.2020,Möbliertes Wohnobjekt,"
+
+Adresse
+6330 Cham
+
+","
+
+Preis
+
+CHF
+3'125 pro Monat
+
+
+","
+Fläche
+50 m2
+","
+Zimmer
+2
+"
+3,07.04.2020,Wohnung,"
+
+Adresse
+Luzernerstrasse 54
+6330 Cham
+
+","
+
+Preis
+
+CHF
+1'900 pro Monat
+
+
+","
+Fläche
+56 m2
+","
+Zimmer
+2.5
+"
+4,07.04.2020,Wohnung,"
+
+Adresse
+Klostermatt
+6330 Cham
+
+","
+
+Preis
+
+CHF
+4'300 pro Monat
+
+
+","
+Fläche
+125 m2
+","
+Zimmer
+ 4.5
+"
+5,07.04.2020,Gewerbe,"
+
+Adresse
+Alte Steinhauserstrasse 33
+6330 Cham
+
+","
+
+Preis
+
+CHF
+1'650 pro Monat
+
+
+","
+Fläche
+95 m2
+","
+Zimmer
+-
+"
+6,06.04.2020,Büro,"
 
 Adresse
 Hinterbergstrasse 21
@@ -20,7 +144,7 @@ Fläche
 Zimmer
 -
 "
-1,06.04.2020,Möbliertes Wohnobjekt,"
+7,06.04.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Luzernerstrasse 19
@@ -41,7 +165,7 @@ Fläche
 Zimmer
 4.5
 "
-2,06.04.2020,Einliegerwohnung,"
+8,06.04.2020,Einliegerwohnung,"
 
 Adresse
 Zugerstrasse 114
@@ -62,7 +186,7 @@ Fläche
 Zimmer
 1.5
 "
-3,03.04.2020,Büro,"
+9,03.04.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 35
@@ -83,7 +207,7 @@ Fläche
 Zimmer
 -
 "
-4,03.04.2020,Büro,"
+10,03.04.2020,Büro,"
 
 Adresse
 Riedstr. 1
@@ -104,7 +228,7 @@ Fläche
 Zimmer
 -
 "
-5,03.04.2020,Büro,"
+11,03.04.2020,Büro,"
 
 Adresse
 Riedstr. 1
@@ -125,7 +249,7 @@ Fläche
 Zimmer
 -
 "
-6,03.04.2020,Büro,"
+12,03.04.2020,Büro,"
 
 Adresse
 Riedstr. 1
@@ -146,7 +270,7 @@ Fläche
 Zimmer
 -
 "
-7,01.04.2020,Büro,"
+13,01.04.2020,Büro,"
 
 Adresse
 Gewerbestrasse 10
@@ -167,7 +291,7 @@ Fläche
 Zimmer
 -
 "
-8,01.04.2020,Büro,"
+14,01.04.2020,Büro,"
 
 Adresse
 Zugerstrasse 4
@@ -188,7 +312,7 @@ Fläche
 Zimmer
 6
 "
-9,01.04.2020,Wohnung,"
+15,01.04.2020,Wohnung,"
 
 Adresse
 Alpenblick 7
@@ -209,7 +333,7 @@ Fläche
 Zimmer
 4.5
 "
-10,31.03.2020,Büro,"
+16,31.03.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 21
@@ -230,7 +354,7 @@ Fläche
 Zimmer
 -
 "
-11,30.03.2020,Wohnung,"
+17,30.03.2020,Wohnung,"
 
 Adresse
 Mugerenstrasse 35c
@@ -246,12 +370,12 @@ CHF
 
 ","
 Fläche
-157 m2
+ 157 m2
 ","
 Zimmer
- 5.5
+5.5
 "
-12,30.03.2020,Wohnung,"
+18,30.03.2020,Wohnung,"
 
 Adresse
 Alpenblick 3
@@ -272,7 +396,7 @@ Fläche
 Zimmer
 5
 "
-13,30.03.2020,Büro,"
+19,30.03.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 21
@@ -293,7 +417,7 @@ Fläche
 Zimmer
 4
 "
-14,28.03.2020,Lager,"
+20,28.03.2020,Lager,"
 
 Adresse
 Brunnmatt 14
@@ -314,7 +438,7 @@ Fläche
 Zimmer
 -
 "
-15,28.03.2020,offener Parkplatz,"
+21,28.03.2020,offener Parkplatz,"
 
 Adresse
 Brunnmatt 14
@@ -335,7 +459,7 @@ Fläche
 Zimmer
 -
 "
-16,06.04.2020,Büro,"
+22,07.04.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 14
@@ -356,7 +480,7 @@ Fläche
 Zimmer
 -
 "
-17,02.04.2020,Tiefgarage,"
+23,02.04.2020,Tiefgarage,"
 
 Adresse
 LORZENHOF 19
@@ -377,7 +501,7 @@ Fläche
 Zimmer
 -
 "
-18,30.03.2020,Büro,"
+24,30.03.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 14
@@ -398,7 +522,7 @@ Fläche
 Zimmer
 -
 "
-19,30.03.2020,Büro,"
+25,30.03.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 14
@@ -419,7 +543,7 @@ Fläche
 Zimmer
 -
 "
-20,06.04.2020,Möbliertes Wohnobjekt,"
+26,06.04.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Luzernerstrasse 19
@@ -440,7 +564,7 @@ Fläche
 Zimmer
 2
 "
-21,06.04.2020,Möbliertes Wohnobjekt,"
+27,06.04.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Luzernerstrasse 19
@@ -461,12 +585,11 @@ Fläche
 Zimmer
 1.5
 "
-22,06.04.2020,Möbliertes Wohnobjekt,"
+28,06.04.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Luzernerstrasse 19
-
-6330 Cham
+ 6330 Cham
 
 ","
 
@@ -483,7 +606,7 @@ Fläche
 Zimmer
 2.5
 "
-23,30.03.2020,Büro,"
+29,30.03.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 14
@@ -504,7 +627,7 @@ Fläche
 Zimmer
 -
 "
-24,06.04.2020,Wohnung,"
+30,06.04.2020,Wohnung,"
 
 Adresse
 Luzernerstrasse 19
@@ -525,7 +648,7 @@ Fläche
 Zimmer
 2
 "
-25,06.04.2020,Wohnung,"
+31,06.04.2020,Wohnung,"
 
 Adresse
 Luzernerstrasse 19
@@ -546,7 +669,7 @@ Fläche
 Zimmer
 2
 "
-26,18.03.2020,Hobbyraum,"
+32,18.03.2020,Hobbyraum,"
 
 Adresse
 Heiligkreuzweg 7
@@ -567,7 +690,7 @@ Fläche
 Zimmer
 -
 "
-27,18.03.2020,Hobbyraum,"
+33,18.03.2020,Hobbyraum,"
 
 Adresse
 Heiligkreuzweg 7
@@ -588,7 +711,7 @@ Fläche
 Zimmer
 -
 "
-28,16.03.2020,Wohnung,"
+34,16.03.2020,Wohnung,"
 
 Adresse
 Zugerstrasse 44
@@ -609,7 +732,7 @@ Fläche
 Zimmer
 5.5
 "
-29,25.03.2020,Wohnung,"
+35,25.03.2020,Wohnung,"
 
 Adresse
 Mugerenmatt 27
@@ -630,7 +753,7 @@ Fläche
 Zimmer
 4.5
 "
-30,10.03.2020,Büro,"
+36,10.03.2020,Büro,"
 
 Adresse
 Zugerstrasse 4
@@ -651,7 +774,7 @@ Fläche
 Zimmer
 -
 "
-31,27.03.2020,Attikawohnung,"
+37,27.03.2020,Attikawohnung,"
 
 Adresse
 Klostermatt cham
@@ -671,8 +794,8 @@ Fläche
 ","
 Zimmer
 5.5
-"
-32,05.04.2020,Attikawohnung,"
+ "
+38,05.04.2020,Attikawohnung,"
 
 Adresse
 6330 Cham
@@ -692,7 +815,7 @@ Fläche
 Zimmer
 5.5
 "
-33,02.04.2020,Möbliertes Wohnobjekt,"
+39,02.04.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Brunnmatt 6
@@ -713,7 +836,7 @@ Fläche
 Zimmer
 1
 "
-34,06.04.2020,Wohnung,"
+40,07.04.2020,Wohnung,"
 
 Adresse
 Alpenblick 6
@@ -729,12 +852,12 @@ CHF
 
 ","
 Fläche
- 91 m2
+91 m2
 ","
 Zimmer
 4.5
 "
-35,09.03.2020,Büro,"
+41,09.03.2020,Büro,"
 
 Adresse
 Dorfplatz 6
@@ -755,7 +878,7 @@ Fläche
 Zimmer
 -
 "
-36,19.03.2020,Restaurant,"
+42,19.03.2020,Restaurant,"
 
 Adresse
 Luzernerstrasse 19
@@ -775,7 +898,7 @@ Fläche
 Zimmer
 -
 "
-37,10.03.2020,Wohnung,"
+43,10.03.2020,Wohnung,"
 
 Adresse
 Langackerstrasse 21
@@ -796,7 +919,7 @@ Fläche
 Zimmer
 3
 "
-38,28.02.2020,Büro,"
+44,28.02.2020,Büro,"
 
 Adresse
 Riedstrasse 3, 5
@@ -817,7 +940,7 @@ Fläche
 Zimmer
 -
 "
-39,28.02.2020,Dachwohnung,"
+45,28.02.2020,Dachwohnung,"
 
 Adresse
 Eizmoosweg
@@ -838,7 +961,7 @@ Fläche
 Zimmer
 3
 "
-40,06.04.2020,Tiefgarage,"
+46,07.04.2020,Tiefgarage,"
 
 Adresse
 Langackerstrasse 5
@@ -859,7 +982,7 @@ Fläche
 Zimmer
 -
 "
-41,27.03.2020,Atelier,"
+47,27.03.2020,Atelier,"
 
 Adresse
 Luzernerstrasse
@@ -879,8 +1002,8 @@ Fläche
 ","
 Zimmer
 -
- "
-42,19.02.2020,Wohnung,"
+"
+48,19.02.2020,Wohnung,"
 
 Adresse
 Adelheid-Page-Strasse 18a
@@ -901,7 +1024,7 @@ Fläche
 Zimmer
 3.5
 "
-43,19.02.2020,Maisonette / Duplex,"
+49,19.02.2020,Maisonette / Duplex,"
 
 Adresse
 Adelheid-Page-Strasse 18a
@@ -922,7 +1045,7 @@ Fläche
 Zimmer
 5.5
 "
-44,18.02.2020,Büro,"
+50,18.02.2020,Büro,"
 
 Adresse
 Alte Steinhauserstrasse 19
@@ -943,7 +1066,7 @@ Fläche
 Zimmer
 -
 "
-45,06.04.2020,Tiefgarage,"
+51,07.04.2020,Tiefgarage,"
 
 Adresse
 Lindenstrasse 23
@@ -964,7 +1087,7 @@ Fläche
 Zimmer
 -
 "
-46,27.02.2020,Gewerbe,"
+52,27.02.2020,Gewerbe,"
 
 Adresse
 Lorzenparkstrasse 12
@@ -985,7 +1108,7 @@ Fläche
 Zimmer
 -
 "
-47,29.03.2020,Wohnung,"
+53,29.03.2020,Wohnung,"
 
 Adresse
 Rigistrasse 9
@@ -1006,7 +1129,7 @@ Fläche
 Zimmer
 3.5
 "
-48,07.02.2020,Gewerbe,"
+54,07.02.2020,Gewerbe,"
 
 Adresse
 Hinterbergstrasse 19
@@ -1027,10 +1150,11 @@ Fläche
 Zimmer
 -
 "
-49,10.02.2020,Gewerbe,"
+55,10.02.2020,Gewerbe,"
 
 Adresse
 Hinterbergstrasse 19+21
+
 6330 Cham
 
 ","
@@ -1048,7 +1172,7 @@ Fläche
 Zimmer
 -
 "
-50,07.02.2020,Lager,"
+56,07.02.2020,Lager,"
 
 Adresse
 6330 Cham
@@ -1068,7 +1192,7 @@ Fläche
 Zimmer
 -
 "
-51,07.02.2020,Büro,"
+57,07.02.2020,Büro,"
 
 Adresse
 Hinterbergstrasse 17
@@ -1089,7 +1213,7 @@ Fläche
 Zimmer
 -
 "
-52,19.02.2020,Büro,"
+58,19.02.2020,Büro,"
 
 Adresse
 Hinterbergstrasse 17
@@ -1110,7 +1234,7 @@ Fläche
 Zimmer
 -
 "
-53,06.02.2020,Gewerbe,"
+59,06.02.2020,Gewerbe,"
 
 Adresse
 Schulhausstrasse 2
@@ -1130,7 +1254,7 @@ Fläche
 Zimmer
 -
 "
-54,01.04.2020,Tiefgarage,"
+60,01.04.2020,Tiefgarage,"
 
 Adresse
 Sinserstrasse 15/17
@@ -1151,7 +1275,7 @@ Fläche
 Zimmer
 -
 "
-55,26.03.2020,Tiefgarage,"
+61,26.03.2020,Tiefgarage,"
 
 Adresse
 Knonauerstrasse 24
@@ -1172,153 +1296,7 @@ Fläche
 Zimmer
 -
 "
-56,02.04.2020,Wohnung,"
-
-Adresse
-Heiligkreuz
-6330 Cham
-
-","
-
-Preis
-
-CHF
-2'900 pro Monat
-
-
-","
-Fläche
-110 m2
-","
-Zimmer
-3.5
-"
-57,06.04.2020,offener Parkplatz,"
-
-Adresse
-6330 Cham
-
-","
-
-Preis
-
-CHF
-100 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-58,06.04.2020,Lager,"
-
-Adresse
-Sinserstrasse 15
-6330 Cham
-
-","
-
-Preis
-
-CHF
-225 pro Monat
-
-
-","
-Fläche
-22 m2
-","
-Zimmer
--
-"
-59,31.03.2020,Tiefgarage,"
-
-Adresse
-Luzernerstrasse 9/11
-6330 Cham
-
-","
-
-Preis
-
-CHF
-160 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-60,03.04.2020,Maisonette / Duplex,"
-
-Adresse
-Allmendweg 11
-6330 Cham
-
-","
-
-Preis
-
-CHF
-3'070 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-61,26.03.2020,Büro,"
-
-Adresse
-Seeblick 1
-6330 Cham
-
-","
-
-Preis
-
-CHF
-550 pro Monat
-
-
-","
-Fläche
-29 m2
-","
-Zimmer
--
-"
-62,26.03.2020,Lager,"
-
-Adresse
-Alpenstrasse 2
-6330 Cham
-
-","
-
-Preis
-
-CHF
-275 pro Monat
-
-
-","
-Fläche
-30 m2
-","
-Zimmer
--
-"
-63,06.04.2020,Lager,"
+62,07.04.2020,Lager,"
 
 Adresse
 Sinserstrasse 15
@@ -1339,10 +1317,10 @@ Fläche
 Zimmer
 -
 "
-64,31.03.2020,Gewerbe,"
+63,02.04.2020,Wohnung,"
 
 Adresse
-Gewerbestrasse 11
+Heiligkreuz
 6330 Cham
 
 ","
@@ -1350,80 +1328,17 @@ Gewerbestrasse 11
 Preis
 
 CHF
-210 Jahr/m2
+2'900 pro Monat
 
 
 ","
 Fläche
-1220 m2
+110 m2
 ","
 Zimmer
--
+3.5
 "
-65,31.03.2020,Büro,"
-
-Adresse
-Gewerbestrasse 11
-6330 Cham
-
-","
-
-Preis
-
-CHF
-220 Jahr/m2
-
-
-","
-Fläche
-198 m2
-","
-Zimmer
--
-"
-66,06.04.2020,Büro,"
-
-Adresse
-Obermühlestrasse 8
-6330 Cham
-
-","
-
-Preis
-
-CHF
-260 pro Monat
-
-
-","
-Fläche
-10 m2
-","
-Zimmer
--
-"
-67,31.03.2020,offener Parkplatz,"
-
-Adresse
-Alpenstrasse 2
-6330 Cham
-
-","
-
-Preis
-
-CHF
-80 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-68,31.03.2020,Geschäftshaus,"
+64,31.03.2020,Geschäftshaus,"
 
 Adresse
 Gewerbestrasse 11
@@ -1444,10 +1359,10 @@ Fläche
 Zimmer
 -
 "
-69,06.04.2020,Büro,"
+65,07.04.2020,Lager,"
 
 Adresse
-Langackerstrasse 5
+Sinserstrasse 15
 6330 Cham
 
 ","
@@ -1455,582 +1370,17 @@ Langackerstrasse 5
 Preis
 
 CHF
-950 pro Monat
+225 pro Monat
 
 
 ","
 Fläche
-27 m2
+22 m2
 ","
 Zimmer
 -
 "
-70,29.01.2020,offener Parkplatz,"
-
-Adresse
-Alte Steinhauserstrasse 20
-6330 Cham
-
-","
-
-Preis
-
-CHF
-200 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-71,20.01.2020,Wohnung,"
-
-Adresse
-Zugerstrasse 114
-6330 Cham
-
-","
-
-Preis
-
-CHF
-3'600 pro Monat
-
-
-","
-Fläche
-72 m2
-","
-Zimmer
--
-"
-72,20.01.2020,Wohnung,"
-
-Adresse
-Zugerstrasse 114
-6330 Cham
-
-","
-
-Preis
-
-CHF
-3'900 pro Monat
-
-
-","
-Fläche
-79 m2
-","
-Zimmer
-2.5
-"
-73,21.01.2020,Gewerbe,"
-
-Adresse
-Seeblick 1
-6330 Cham
-
-","
-
-Preis
-
-CHF
-3'700 pro Monat
-
-
-","
-Fläche
-180 m2
-","
-Zimmer
--
-"
-74,11.03.2020,Lager,"
-
-Adresse
-Alpenstrasse 2
-6330 Cham
-
-","
-
-Preis
-
-CHF
-275 pro Monat
-
-
-","
-Fläche
-29 m2
-","
-Zimmer
--
-"
-75,16.01.2020,Praxis,"
-
-Adresse
-Sinserstrasse 122
-6330 Cham
-
-","
-
-Preis
-
-Auf Anfrage
-
-
-","
-Fläche
-117 m2
-","
-Zimmer
-3
-"
-76,07.02.2020,Industrieobjekt,"
-
-Adresse
-6330 Cham
-
-","
-
-Preis
-
-CHF
-6'548 pro Monat
-
-
-","
-Fläche
-547 m2
-","
-Zimmer
--
-"
-77,14.01.2020,Büro,"
-
-Adresse
-Gewerbestrasse 6
-6330 Cham
-
-","
-
-Preis
-
-CHF
-170 Jahr/m2
-
-
-","
-Fläche
-189 m2
-","
-Zimmer
--
-"
-78,06.04.2020,Gewerbe,"
-
-Adresse
-Riedstrasse 7/9
-6330 Cham
-
-","
-
-Preis
-
-CHF
-150 Jahr/m2
-
-
-","
-Fläche
-392 m2
-","
-Zimmer
--
-"
-79,09.01.2020,Tiefgarage,"
-
-Adresse
-Zugerstrasse 66
-6330 Cham
-
-","
-
-Preis
-
-CHF
-50 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-80,09.01.2020,Maisonette / Duplex,"
-
-Adresse
-Zugerstrasse 79
-6330 Cham
-
-","
-
-Preis
-
-CHF
-2'800 pro Monat
-
-
-","
-Fläche
-105 m2
-","
-Zimmer
-4.5
-"
-81,04.02.2020,Tiefgarage,"
-
-Adresse
-Sonnegg-/Johannisstr.
-6330 Cham
-
-","
-
-Preis
-
-CHF
-120 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-82,04.02.2020,Tiefgarage,"
-
-Adresse
-Hammergut 1-15
-6330 Cham
-
-","
-
-Preis
-
-CHF
-180 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-83,13.12.2019,Autogarage,"
-
-Adresse
-Zugerstrasse 114/116
-6330 Cham
-
-","
-
-Preis
-
-CHF
-180 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-84,03.12.2019,Tiefgarage,"
-
-Adresse
-Zugerstrasse 27
-6330 Cham
-
-","
-
-Preis
-
-CHF
-130 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-85,04.02.2020,Moto Hallenplatz,"
-
-Adresse
-Obermühleweid 2-7
-6330 Cham
-
-","
-
-Preis
-
-CHF
-50 pro Monat
-
-
-","
-Fläche
- -
-","
-Zimmer
--
-"
-86,10.01.2020,Büro,"
-
-Adresse
-Gewerbestrasse 11
-6330 Cham
-
-","
-
-Preis
-
-CHF
-900 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-87,01.04.2020,Ladenfläche,"
-
-Adresse
-Zugerstrasse 66
-6330 Cham
-
-","
-
-Preis
-
-CHF
-114 Jahr/m2
-
-
-","
-Fläche
-400 m2
-","
-Zimmer
--
-"
-88,04.02.2020,offener Parkplatz,"
-
-Adresse
-Abstellplätze
-6330 Cham
- 
-","
-
-Preis
-
-CHF
-120 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-89,17.02.2020,Büro,"
-
-Adresse
-Brunnmatt 16
-6330 Cham
-
-","
-
-Preis
-
-CHF
-179 Jahr/m2
-
-
-","
-Fläche
-224 m2
-","
-Zimmer
--
-"
-90,04.02.2020,Büro,"
-
-Adresse
-Riedstr. 1
-6330 Cham
-
-","
-
-Preis
-
-CHF
-135 Jahr/m2
-
-
-","
-Fläche
-100 m2
-","
-Zimmer
--
-"
-91,27.03.2020,Büro,"
-
-Adresse
-Alte Steinhauserstrasse 35
-6330 Cham
-
-","
-
-Preis
-
-CHF
-2'700 pro Monat
-
-
-","
-Fläche
- -
-","
-Zimmer
--
-"
-92,25.01.2020,Tiefgarage,"
-
-Adresse
-Brunnmatt
-6330 Cham
-
-","
-
-Preis
-
-CHF
-140 pro Monat
-
-
-","
-Fläche
--
-","
-Zimmer
--
-"
-93,06.04.2020,Gewerbe,"
-
-Adresse
-Riedstrasse 11/13
-6330 Cham
-
-","
-
-Preis
-
-CHF
-154 Jahr/m2
-
-
-","
-Fläche
-151 m2
-","
-Zimmer
--
-"
-94,05.11.2019,Büro,"
-
-Adresse
-Alte Steinhauserstrasse 20
-6330 Cham
-
-","
-
-Preis
-
-CHF
-149 Jahr/m2
-
-
-","
-Fläche
-432 m2
-","
-Zimmer
- -
-"
-95,29.01.2020,Lager,"
-
-Adresse
-Zugerstrasse 49
-6330 Cham
-
-","
-
-Preis
-
-CHF
-1'850 pro Monat
-
-
-","
-Fläche
-190 m2
-","
-Zimmer
--
-"
-96,06.04.2020,Büro,"
-
-Adresse
-Hinterbergstrasse 9
-6330 Cham
-
-","
-
-Preis
-
-CHF
-162 Jahr/m2
-
-
-","
-Fläche
-358 m2
-","
-Zimmer
--
-"
-97,17.09.2019,Tiefgarage,"
+66,31.03.2020,Tiefgarage,"
 
 Adresse
 Luzernerstrasse 9/11
@@ -2051,7 +1401,760 @@ Fläche
 Zimmer
 -
 "
-98,10.03.2020,Gewerbe,"
+67,26.03.2020,Büro,"
+
+Adresse
+Seeblick 1
+6330 Cham
+
+","
+
+Preis
+
+CHF
+550 pro Monat
+
+
+","
+Fläche
+ 29 m2
+","
+Zimmer
+-
+"
+68,26.03.2020,Lager,"
+
+Adresse
+Alpenstrasse 2
+6330 Cham
+
+","
+
+Preis
+
+CHF
+275 pro Monat
+
+
+","
+Fläche
+30 m2
+","
+Zimmer
+-
+"
+69,31.03.2020,Gewerbe,"
+
+Adresse
+Gewerbestrasse 11
+6330 Cham
+
+","
+
+Preis
+
+CHF
+210 Jahr/m2
+
+
+","
+Fläche
+1220 m2
+","
+Zimmer
+-
+"
+70,31.03.2020,Büro,"
+
+Adresse
+Gewerbestrasse 11
+6330 Cham
+
+","
+
+Preis
+
+CHF
+220 Jahr/m2
+
+
+","
+Fläche
+198 m2
+","
+Zimmer
+-
+"
+71,07.04.2020,Büro,"
+
+Adresse
+Obermühlestrasse 8
+6330 Cham
+
+","
+
+Preis
+
+CHF
+260 pro Monat
+
+
+","
+Fläche
+10 m2
+","
+Zimmer
+-
+"
+72,07.04.2020,Büro,"
+
+Adresse
+Langackerstrasse 5
+6330 Cham
+
+","
+
+Preis
+
+CHF
+950 pro Monat
+
+
+","
+Fläche
+27 m2
+","
+Zimmer
+-
+"
+73,31.03.2020,offener Parkplatz,"
+
+Adresse
+Alpenstrasse 2
+6330 Cham
+
+","
+
+Preis
+
+CHF
+80 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+74,07.04.2020,offener Parkplatz,"
+
+Adresse
+6330 Cham
+
+","
+
+Preis
+
+CHF
+100 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+75,29.01.2020,offener Parkplatz,"
+
+Adresse
+Alte Steinhauserstrasse 20
+6330 Cham
+
+","
+
+Preis
+
+CHF
+200 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+76,20.01.2020,Wohnung,"
+
+Adresse
+Zugerstrasse 114
+6330 Cham
+
+","
+
+Preis
+
+CHF
+3'600 pro Monat
+
+
+","
+Fläche
+72 m2
+","
+Zimmer
+-
+"
+77,20.01.2020,Wohnung,"
+
+Adresse
+Zugerstrasse 114
+6330 Cham
+
+","
+
+Preis
+
+CHF
+3'900 pro Monat
+
+
+","
+Fläche
+79 m2
+","
+Zimmer
+2.5
+"
+78,21.01.2020,Gewerbe,"
+
+Adresse
+Seeblick 1
+6330 Cham
+
+","
+
+Preis
+
+CHF
+3'700 pro Monat
+
+
+","
+Fläche
+180 m2
+","
+Zimmer
+-
+"
+79,11.03.2020,Lager,"
+
+Adresse
+Alpenstrasse 2
+6330 Cham
+
+","
+
+Preis
+
+CHF
+275 pro Monat
+
+
+","
+Fläche
+29 m2
+","
+Zimmer
+-
+"
+80,16.01.2020,Praxis,"
+
+Adresse
+Sinserstrasse 122
+6330 Cham
+
+","
+
+Preis
+
+Auf Anfrage
+
+
+","
+Fläche
+117 m2
+","
+Zimmer
+3
+"
+81,07.02.2020,Industrieobjekt,"
+
+Adresse
+6330 Cham
+
+","
+
+Preis
+
+CHF
+6'548 pro Monat
+
+
+","
+Fläche
+547 m2
+","
+Zimmer
+-
+"
+82,14.01.2020,Büro,"
+
+Adresse
+Gewerbestrasse 6
+6330 Cham
+
+","
+
+Preis
+
+CHF
+170 Jahr/m2
+
+
+","
+Fläche
+189 m2
+","
+Zimmer
+-
+"
+83,07.04.2020,Gewerbe,"
+
+Adresse
+Riedstrasse 7/9
+6330 Cham
+
+","
+
+Preis
+
+CHF
+150 Jahr/m2
+
+
+","
+Fläche
+392 m2
+","
+Zimmer
+-
+"
+84,09.01.2020,Tiefgarage,"
+
+Adresse
+Zugerstrasse 66
+6330 Cham
+
+","
+
+Preis
+
+CHF
+50 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+85,09.01.2020,Maisonette / Duplex,"
+
+Adresse
+Zugerstrasse 79
+6330 Cham
+
+","
+
+Preis
+
+CHF
+2'800 pro Monat
+
+
+","
+Fläche
+105 m2
+","
+Zimmer
+4.5
+"
+86,04.02.2020,Tiefgarage,"
+
+Adresse
+Sonnegg-/Johannisstr.
+6330 Cham
+
+","
+
+Preis
+
+CHF
+120 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+87,04.02.2020,Tiefgarage,"
+
+Adresse
+Hammergut 1-15
+6330 Cham
+
+","
+
+Preis
+
+CHF
+180 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+88,13.12.2019,Autogarage,"
+
+Adresse
+Zugerstrasse 114/116
+6330 Cham
+
+","
+
+Preis
+
+CHF
+180 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+89,03.12.2019,Tiefgarage,"
+
+Adresse
+Zugerstrasse 27
+6330 Cham
+
+","
+
+Preis
+
+CHF
+130 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+90,04.02.2020,Moto Hallenplatz,"
+
+Adresse
+Obermühleweid 2-7
+6330 Cham
+
+","
+
+Preis
+
+CHF
+50 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+91,10.01.2020,Büro,"
+
+Adresse
+Gewerbestrasse 11
+6330 Cham
+
+","
+
+Preis
+
+CHF
+900 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+92,01.04.2020,Ladenfläche,"
+
+Adresse
+Zugerstrasse 66
+6330 Cham
+
+","
+
+Preis
+
+CHF
+114 Jahr/m2
+
+
+","
+Fläche
+400 m2
+","
+Zimmer
+-
+"
+93,04.02.2020,offener Parkplatz,"
+
+Adresse
+Abstellplätze
+6330 Cham
+
+","
+
+Preis
+
+CHF
+120 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+94,17.02.2020,Büro,"
+
+Adresse
+Brunnmatt 16
+6330 Cham
+
+","
+
+Preis
+
+CHF
+179 Jahr/m2
+
+
+","
+Fläche
+224 m2
+","
+Zimmer
+-
+"
+95,04.02.2020,Büro,"
+
+Adresse
+Riedstr. 1
+ 6330 Cham
+
+","
+
+Preis
+
+CHF
+135 Jahr/m2
+
+
+","
+Fläche
+100 m2
+","
+Zimmer
+-
+"
+96,27.03.2020,Büro,"
+
+Adresse
+Alte Steinhauserstrasse 35
+6330 Cham
+
+","
+
+Preis
+
+CHF
+2'700 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+97,25.01.2020,Tiefgarage,"
+
+Adresse
+Brunnmatt
+6330 Cham
+
+","
+
+Preis
+
+CHF
+140 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+98,07.04.2020,Gewerbe,"
+
+Adresse
+Riedstrasse 11/13
+6330 Cham
+
+","
+
+Preis
+
+CHF
+154 Jahr/m2
+
+
+","
+Fläche
+ 151 m2
+","
+Zimmer
+-
+"
+99,05.11.2019,Büro,"
+
+Adresse
+Alte Steinhauserstrasse 20
+6330 Cham
+
+","
+
+Preis
+
+CHF
+149 Jahr/m2
+
+
+","
+Fläche
+432 m2
+","
+Zimmer
+-
+"
+100,29.01.2020,Lager,"
+
+Adresse
+Zugerstrasse 49
+6330 Cham
+
+","
+
+Preis
+
+CHF
+1'850 pro Monat
+
+
+","
+Fläche
+190 m2
+","
+Zimmer
+-
+"
+101,07.04.2020,Büro,"
+
+Adresse
+Hinterbergstrasse 9
+6330 Cham
+
+","
+
+Preis
+
+CHF
+162 Jahr/m2
+
+
+","
+Fläche
+358 m2
+","
+Zimmer
+-
+"
+102,17.09.2019,Tiefgarage,"
+
+Adresse
+Luzernerstrasse 9/11
+6330 Cham
+
+","
+
+Preis
+
+CHF
+160 pro Monat
+
+
+","
+Fläche
+-
+","
+Zimmer
+-
+"
+103,10.03.2020,Gewerbe,"
 
 Adresse
 Areal Cham Paper Group
@@ -2072,7 +2175,7 @@ Fläche
 Zimmer
 -
 "
-99,04.12.2019,Büro,"
+104,04.12.2019,Büro,"
 
 Adresse
 Gewerbestrasse 9
@@ -2093,7 +2196,7 @@ Fläche
 Zimmer
 -
 "
-100,07.01.2020,Gewerbe,"
+105,07.01.2020,Gewerbe,"
 
 Adresse
 Gewerbestrasse 11
@@ -2109,12 +2212,12 @@ CHF
 
 ","
 Fläche
-690 m2
+ 690 m2
 ","
 Zimmer
 -
 "
-101,31.03.2020,Büro,"
+106,31.03.2020,Büro,"
 
 Adresse
 Gewerbestrasse 11
@@ -2135,7 +2238,7 @@ Fläche
 Zimmer
 -
 "
-102,10.01.2020,Büro,"
+107,10.01.2020,Büro,"
 
 Adresse
 Gewerbestrasse 11
@@ -2156,7 +2259,7 @@ Fläche
 Zimmer
 -
 "
-103,07.01.2020,Büro,"
+108,07.01.2020,Büro,"
 
 Adresse
 Gewerbestrasse 11
@@ -2177,7 +2280,7 @@ Fläche
 Zimmer
 -
 "
-104,10.01.2020,Tiefgarage,"
+109,10.01.2020,Tiefgarage,"
 
 Adresse
 Gewerbestrasse 11
@@ -2198,7 +2301,7 @@ Fläche
 Zimmer
 -
 "
-105,25.03.2020,Werbefläche,"
+110,25.03.2020,Werbefläche,"
 
 Adresse
 Zugerstrasse 15|17
@@ -2219,7 +2322,7 @@ Fläche
 Zimmer
 -
 "
-106,24.01.2020,offener Parkplatz,"
+111,24.01.2020,offener Parkplatz,"
 
 Adresse
 Alpenblick 7/9
@@ -2240,7 +2343,7 @@ Fläche
 Zimmer
 -
 "
-107,19.02.2020,Möbliertes Wohnobjekt,"
+112,19.02.2020,Möbliertes Wohnobjekt,"
 
 Adresse
 Bahnhofstrasse 2
@@ -2261,7 +2364,7 @@ Fläche
 Zimmer
 1
 "
-108,04.12.2019,Gewerbe,"
+113,04.12.2019,Gewerbe,"
 
 Adresse
 Riedstrasse 8
@@ -2282,7 +2385,7 @@ Fläche
 Zimmer
 -
 "
-109,06.04.2020,Tiefgarage,"
+114,06.04.2020,Tiefgarage,"
 
 Adresse
 Sinserstrasse 65|67
@@ -2303,12 +2406,12 @@ Fläche
 Zimmer
 -
 "
-110,04.02.2020,Moto Hallenplatz,"
+115,04.02.2020,Moto Hallenplatz,"
 
 Adresse
 Sinserstr. 59-63
 6330 Cham
-
+ 
 ","
 
 Preis
@@ -2324,7 +2427,7 @@ Fläche
 Zimmer
 -
 "
-111,24.01.2020,Tiefgarage,"
+116,24.01.2020,Tiefgarage,"
 
 Adresse
 Dorfplatz 2, Einstellhalle
@@ -2345,7 +2448,7 @@ Fläche
 Zimmer
 -
 "
-112,04.02.2020,Tiefgarage,"
+117,04.02.2020,Tiefgarage,"
 
 Adresse
 Sinserstr. 59-63
@@ -2366,7 +2469,7 @@ Fläche
 Zimmer
 -
 "
-113,30.05.2019,Büro,"
+118,30.05.2019,Büro,"
 
 Adresse
 Sinserstrasse 65
@@ -2387,7 +2490,7 @@ Fläche
 Zimmer
 1
 "
-114,25.01.2020,Lager,"
+119,25.01.2020,Lager,"
 
 Adresse
 Zugerstr. 53
@@ -2407,7 +2510,7 @@ Fläche
 Zimmer
 -
 "
-115,04.02.2020,Moto Hallenplatz,"
+120,04.02.2020,Moto Hallenplatz,"
 
 Adresse
 Sonnegg-/Johannisstr.
@@ -2428,7 +2531,7 @@ Fläche
 Zimmer
 -
 "
-116,04.02.2020,Moto Hallenplatz,"
+121,04.02.2020,Moto Hallenplatz,"
 
 Adresse
 Herrenmattstr. 1-8
@@ -2449,7 +2552,7 @@ Fläche
 Zimmer
 -
 "
-117,06.04.2020,Büro,"
+122,07.04.2020,Büro,"
 
 Adresse
 Riedstrasse 11/13
@@ -2470,7 +2573,7 @@ Fläche
 Zimmer
 -
 "
-118,06.04.2020,Lager,"
+123,07.04.2020,Lager,"
 
 Adresse
 Riedstrasse 7/9
@@ -2491,7 +2594,7 @@ Fläche
 Zimmer
 -
 "
-119,04.12.2019,Ladenfläche,"
+124,04.12.2019,Ladenfläche,"
 
 Adresse
 Zugerstrasse 17
@@ -2512,7 +2615,7 @@ Fläche
 Zimmer
 -
 "
-120,18.02.2020,Moto Aussenplatz,"
+125,18.02.2020,Moto Aussenplatz,"
 
 Adresse
 Schellenmattstr. / Pilatusstr.

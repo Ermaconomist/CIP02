@@ -6,6 +6,8 @@ import re
 import pandas as pd
 import sqlalchemy
 
+
+
 # um anzahl seiten zu extrahieren --------------------------------------------------------------------------------------
 
 # Der gesamte Crawler benötigt ca. 3-4h
@@ -82,6 +84,6 @@ df_alle_immo = pd.DataFrame(
 print(df_alle_immo)
 
 # output als csv
-df_alle_immo.to_csv('./01_input/crawler_test.csv', encoding = 'utf-8')
+df_alle_immo.to_csv('./01_input/crawler_6330.csv', encoding = 'utf-8')
 
 

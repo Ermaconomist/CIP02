@@ -83,12 +83,11 @@ df_crawler = df_crawler.drop(columns='PLZ Ort')
 """Spalten umsortieren"""
 df_crawler = df_crawler[['ID', 'date', 'Strasse', 'Hausnummer', 'PLZ', 'Ort', 'type', 'Zimmer', 'Fläche', 'Preis']]
 
-"""NAs entfernen"""
-df_crawler_nadropper = df_crawler.dropna()
-
 """Exportieren Crawler bereinigt"""
-df_crawler.to_csv(Path().joinpath('02_output', 'df_crawler_test.csv'), sep = ';', encoding = 'utf-8')
+df_crawler.to_csv(Path().joinpath('02_output', 'df_crawler.csv'), sep = ';', encoding = 'utf-8')
 
+
+# UNUSED CODE - DONE IN TABLEAU PREP
 # """
 # Data Preparation - Bundesamt für Statistik (Data Source 3 PLZ)
 # """
